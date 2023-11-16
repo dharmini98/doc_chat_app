@@ -1,0 +1,14 @@
+openai
+langchain
+Flask
+Flask-SQLAlchemy
+streamlit
+Werkzeug
+python-dotenv
+azure-storage-blob
+tabulate
+jsonlines
+ipykernel
+jupyterlab
+langchain[all]
+azure.sql.connectors

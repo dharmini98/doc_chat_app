@@ -1,0 +1,4 @@
+*.env
+*const.py
+*.venv
+*ipynb_checkpoints
